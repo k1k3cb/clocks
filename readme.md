@@ -1,6 +1,6 @@
-# Password Generator
+# Clocks
 
-![Imagen del proyecto](https://raw.githubusercontent.com/k1k3cb/password-generator/main/src/assets/images/project_captures/captura-password-generator.jpg)
+
 
 ## Ejemplo en vivo
  
@@ -35,7 +35,7 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 ![Captura del proyecto](https://raw.githubusercontent.com/k1k3cb/password-generator/main/src/assets/images/project_captures/captura-password-generator-weak.jpg)
 
-![Captura del proyecto](https://raw.githubusercontent.com/k1k3cb/password-generator/main/src/assets/images/project_captures/captura-password-generator-strenght.jpg)
+
 
 ## Autor ✒️
 
