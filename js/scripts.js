@@ -81,3 +81,6 @@ const analogicClockHands = () => {
 };
 
 setInterval(analogicClockHands, 1000);
+
+digitalClock()
+analogicClockHands()
