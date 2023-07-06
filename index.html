@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400;800&display=swap"
+			rel="stylesheet"
+		/>
+
+		<link rel="stylesheet" href="css/normalize.css" />
+		<link rel="stylesheet" href="css/style.css" />
+		<title>Digital Clock</title>
+	</head>
+
+	<body>
+		<main class="main">
+			<div class="clock-container">
+				<div class="digital-clock">
+					<div class="digital-clock-time">
+						<span id="hour"></span>
+						<span>:</span>
+						<span id="minutes"></span>
+						<span>:</span>
+						<span id="seconds"></span>
+					</div>
+					<div class="digital-clock-date">
+						<span id="day-of-week"></span>
+						<span id="day"></span>
+						<span id="month"></span>
+						<span id="year"></span>
+					</div>
+				</div>
+				<div class="analogic-clock">
+					<div class="clock-hand hour" id="analogic-clock-hour"></div>
+					<div class="clock-hand minute" id="analogic-clock-minute"></div>
+					<div class="clock-hand second" id="analogic-clock-second"></div>
+					<div class="numbers-container">
+						<div class="number number1">1</div>
+						<div class="number number2">2</div>
+						<div class="number number3">3</div>
+						<div class="number number4">4</div>
+						<div class="number number5">5</div>
+						<div class="number number6">6</div>
+						<div class="number number7">7</div>
+						<div class="number number8">8</div>
+						<div class="number number9">9</div>
+						<div class="number number10">10</div>
+						<div class="number number11">11</div>
+						<div class="number number12">12</div>
+					</div>
+				</div>
+			</div>
+		</main>
+
+		<script src="js/scripts.js"></script>
+	</body>
+</html>
