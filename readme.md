@@ -14,7 +14,7 @@ Este proyecto consiste en el desarrollo de una aplicación web para generar cont
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
-Mendiante este proyecto en JS he aprendido la lógica para poder generar  una contraseña de forma aleatoria a través de la selección de distintos tipos de inputs.
+Mediante este proyecto en JS he aprendido la lógica para poder generar un reloj analógico y otro digital
 
 ## Tecnologías 🛠
 
@@ -33,7 +33,7 @@ Mendiante este proyecto en JS he aprendido la lógica para poder generar  una co
 
 Si quieres echar un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](https://raw.githubusercontent.com/k1k3cb/password-generator/main/src/assets/images/project_captures/captura-password-generator-weak.jpg)
+![Captura del proyecto](https://github.com/k1k3cb/clocks/blob/main/assets/projects_captures/clock.jpg?raw=true)
 
 
 
@@ -41,7 +41,7 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 **ENRIQUE COMESAÑA**
 
-  [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enriquecbar@gmail.com)
+  [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enriquecbardev@gmail.com)
 
 <!-- - [enriquecbar@gmail.com](enriquecbar@gmail.com) -->
 - [LinkedIn](https://www.linkedin.com/in/enrique-comesa%c3%b1a-312500268/)
