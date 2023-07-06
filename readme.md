@@ -47,15 +47,7 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 - [LinkedIn](https://www.linkedin.com/in/enrique-comesa%c3%b1a-312500268/)
 - [Porfolio web](https://portfolio-ep5h.onrender.com/)
 
-## Instalación
 
-Este proyecto para su instalación necesitas usar los siguientes comandos:
-
--npm install <br>
--npm run dev<br>
-
-
-Si solamente quieres verlo debes usar el comando *npm run preview*
 
 ## Licencia 📄
 
